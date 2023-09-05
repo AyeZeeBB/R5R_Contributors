@@ -25,12 +25,6 @@
       "link": "https://github.com/salcodes1"
     },
     {
-      "name": "Mostly Fireproof",
-      "desc": "Scripting",
-      "image": "https://cdn.discordapp.com/avatars/99327125340831744/3d2548dad1e5f472f69946baa17087a8.webp?size=80",
-      "link": "https://github.com/mostlyfireproof"
-    },
-    {
       "name": "KralRindo",
       "desc": "Scripting, Maps, Models",
       "image": "https://cdn.discordapp.com/avatars/701847483998928996/a87529ba9e2372c43b3bbf8f88efd35d.webp?size=80",
@@ -49,6 +43,12 @@
       "link": "https://github.com/ColombianGuy"
     },
     {
+      "name": "Mostly Fireproof",
+      "desc": "Scripting",
+      "image": "https://cdn.discordapp.com/avatars/99327125340831744/3d2548dad1e5f472f69946baa17087a8.webp?size=80",
+      "link": "https://github.com/mostlyfireproof"
+    },
+    {
       "name": "Julefox",
       "desc": "Scripting",
       "image": "https://cdn.discordapp.com/avatars/444439575134339092/a_70fddd32dd524ccfbbc36660a60509d0.webp?size=80",
@@ -59,6 +59,12 @@
       "desc": "Scripting",
       "image": "https://cdn.discordapp.com/avatars/401831376690872320/f7c181b42b9b24494b4078cc10caeae1.webp?size=80",
       "link": "https://github.com/ReGlitched"
+    },
+    {
+      "name": "O Robotic",
+      "desc": "Helper",
+      "image": "https://cdn.discordapp.com/avatars/877486197155442698/17a9e198d862aa282dc1169553a9b6f3.webp?size=80",
+      "link": ""
     },
     {
       "name": "Neeflow",
