@@ -2,7 +2,7 @@
   "contributors": [
     {
       "name": "Amos",
-      "desc": "Big Man / Founder",
+      "desc": "Big Man, Founder",
       "image": "https://cdn.discordapp.com/avatars/424586578220941323/884fc9bbdaa50e2a4afa5158d51d58c3.webp?size=80",
       "link": "https://github.com/Mauler125"
     },
@@ -14,33 +14,39 @@
     },
     {
       "name": "Rexx",
-      "desc": "MS / Developer",
+      "desc": "Master Server, Developer",
       "image": "https://cdn.discordapp.com/avatars/269519792472457227/cea292eb65f1f406dfa17580f5b4e7e5.webp?size=80",
       "link": "https://github.com/r-ex"
     },
     {
       "name": "Sal",
-      "desc": "MS / Developer",
+      "desc": "Master Server, Developer",
       "image": "https://cdn.discordapp.com/avatars/246304756698578945/ad815df184e26a9b2b5f3664bd9e30d8.webp?size=80",
       "link": "https://github.com/salcodes1"
     },
     {
       "name": "KralRindo",
-      "desc": "Models / Map Porting",
+      "desc": "Scripting, Maps, Models",
       "image": "https://cdn.discordapp.com/avatars/701847483998928996/a87529ba9e2372c43b3bbf8f88efd35d.webp?size=80",
       "link": "https://github.com/kralrindo"
     },
     {
       "name": "Zee",
-      "desc": "Website / Script Dev",
+      "desc": "Website, Scripting",
       "image": "https://cdn.discordapp.com/avatars/784643541045215262/c4dbdcc15ed4130b695dafa7e07c90eb.webp?size=80",
       "link": "https://github.com/AyeZeeBB"
     },
     {
-      "name": "CafeFPS",
-      "desc": "Script Dev / Flowstate",
-      "image": "https://cdn.discordapp.com/avatars/277299585100152832/c2d22f2db3eb1cc892aca3229ca1bb0d.webp?size=80",
-      "link": "https://github.com/ColombianGuy"
+      "name": "Julefox",
+      "desc": "Scripting",
+      "image": "https://cdn.discordapp.com/avatars/444439575134339092/a_70fddd32dd524ccfbbc36660a60509d0.webp?size=80",
+      "link": "https://github.com/Julefox"
+    },
+    {
+      "name": "ReGlitched",
+      "desc": "Scripting",
+      "image": "https://cdn.discordapp.com/avatars/401831376690872320/f7c181b42b9b24494b4078cc10caeae1.webp?size=80",
+      "link": "https://github.com/ReGlitched"
     }
   ]
 }
